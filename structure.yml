@@ -1,0 +1,40 @@
+---
+All-Projects:
+  - All-Users
+  - All-Replicated-Projects
+All-Replicated-Projects:
+  - ProjectFluid-11.0-Projects
+ProjectFluid-11.0-Projects:
+  - Project-Fluid/bionic
+  - Project-Fluid/lineage-sdk
+  - Project-Fluid/manifest
+  - Project-Fluid/bootable_recovery
+  - Project-Fluid/build
+  - Project-Fluid/build_soong
+  - Project-Fluid/device_fluid_sepolicy
+  - Project-Fluid/device_qcom_sepolicy
+  - Project-Fluid/device_qcom_sepolicy_vndr
+  - Project-Fluid/external_selinux
+  - Project-Fluid/external_tinycompress
+  - Project-Fluid/frameworks_av
+  - Project-Fluid/frameworks_base
+  - Project-Fluid/frameworks_native
+  - Project-Fluid/frameworks_opt_telephony
+  - Project-Fluid/hardware_interfaces
+  - Project-Fluid/hardware_lineage_interfaces
+  - Project-Fluid/packages_apps_DocumentsUI
+  - Project-Fluid/packages_apps_FluidCustomisation
+  - Project-Fluid/packages_apps_FluidLauncher
+  - Project-Fluid/packages_apps_Settings
+  - Project-Fluid/packages_apps_SettingsIntelligence
+  - Project-Fluid/packages_services_Telecomm
+  - Project-Fluid/packages_services_Telephony
+  - Project-Fluid/packages_apps_PermissionController
+  - Project-Fluid/packages_apps_ThemePicker
+  - Project-Fluid/system_core
+  - Project-Fluid/system_netd
+  - Project-Fluid/system_sepolicy
+  - Project-Fluid/system_tools_mkbootimg
+  - Project-Fluid/system_vold
+  - Project-Fluid/vendor_fextras
+  - Project-Fluid/vendor_fluid
