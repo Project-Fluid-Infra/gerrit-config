@@ -35,6 +35,7 @@ ProjectFluid-11.0-Projects:
   - Project-Fluid/system_netd
   - Project-Fluid/system_sepolicy
   - Project-Fluid/system_tools_mkbootimg
+  - Project-Fluid/system_update_engine
   - Project-Fluid/system_vold
   - Project-Fluid/vendor_fextras
   - Project-Fluid/vendor_fluid
