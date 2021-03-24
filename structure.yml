@@ -18,6 +18,7 @@ ProjectFluid-11.0-Projects:
   - Project-Fluid/external_tinycompress
   - Project-Fluid/frameworks_av
   - Project-Fluid/frameworks_base
+  - Project-Fluid/frameworks_libs_systemui
   - Project-Fluid/frameworks_native
   - Project-Fluid/frameworks_opt_telephony
   - Project-Fluid/hardware_interfaces
